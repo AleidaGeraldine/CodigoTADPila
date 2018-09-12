@@ -1,0 +1,21 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include"TADPilaEst.h"
+#define TamMAX_Cadena 100 //Aqui definimos el tamaño max. que puede tener la cadena a evaluar//
+
+//Se intentara hacer un menu con las siguientes opciones: 1) evaluar si esta correcta la expresion en cuanto a parentesis
+2) cambiar de infijo a postfijo  3) evaluar una expresion postfija//
+
+// Programa principal//
+//Se pone void porque aunque sea un proceso nuestro programa principal, este devuelve un 0, lo cual significa que esta bien//
+int main(void){
+
+
+
+
+
+
+
+
+return 0;
+}
