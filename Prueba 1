@@ -10,8 +10,7 @@
 //Se pone void porque aunque sea un proceso nuestro programa principal, este devuelve un 0, lo cual significa que esta bien//
 int main(void){
 
-
-
+//Hola queridos compañeros 
 
 
 
